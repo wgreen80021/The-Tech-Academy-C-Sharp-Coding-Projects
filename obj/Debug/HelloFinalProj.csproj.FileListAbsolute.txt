@@ -1,0 +1,12 @@
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\bin\Debug\HelloFinalProj.exe.config
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\bin\Debug\HelloFinalProj.exe
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\bin\Debug\HelloFinalProj.pdb
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\bin\Debug\EntityFramework.dll
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\bin\Debug\EntityFramework.xml
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\obj\Debug\HelloFinalProj.csprojAssemblyReference.cache
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\obj\Debug\HelloFinalProj.csproj.CoreCompileInputs.cache
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\obj\Debug\HelloFinalProj.csproj.CopyComplete
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\obj\Debug\HelloFinalProj.exe
+C:\Users\Wendy\source\repos\HelloFinalProj\HelloFinalProj\obj\Debug\HelloFinalProj.pdb
